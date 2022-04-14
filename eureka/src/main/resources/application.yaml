@@ -6,7 +6,7 @@ spring:
     name: eureka
 eureka:
   instance:
-    hostname: cloud-eureka-service
+    hostname: eureka
   client:
     registerWithEureka: true #?????????????
     fetchRegistry: false #??????
